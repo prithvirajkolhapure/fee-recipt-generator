@@ -27,5 +27,4 @@ The Fee Receipt Generator is a Java-based desktop application that generates stu
 
 ---
 
-## 📂 Project Structure
 
